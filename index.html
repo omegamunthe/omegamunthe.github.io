@@ -127,38 +127,81 @@
       </div>
     </section>
 
-    <!-- Portfolio -->
-    <section id="portfolio" class="portfolio section-bg">
-      <div class="container">
+<!-- ======= Portfolio Section ======= -->
+<section id="portfolio" class="portfolio section-bg">
+  <div class="container">
 
-        <div class="section-title">
-          <h2>Portfolio</h2>
-        </div>
+    <div class="section-title">
+      <h2>Portfolio</h2>
+      <p>Explore my portfolio showcasing various projects that highlight my skills.</p>
+    </div>
 
-        <div class="row portfolio-container">
-
-          <div class="col-lg-4 col-md-6 portfolio-item">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/SBA Loan Approval-1.png" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="portfolio-details-1.html"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/Self Assessment for Credit Analyst.png" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="portfolio-details-4.html"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
+    <!-- Filter -->
+    <div class="row" data-aos="fade-up">
+      <div class="col-lg-12 d-flex justify-content-center">
+        <ul id="portfolio-flters">
+          <li data-filter="*" class="filter-active">All</li>
+          <li data-filter=".filter-ds">Data Analytics</li>
+          <li data-filter=".filter-tg">Geophysics Projects</li>
+        </ul>
       </div>
-    </section>
+    </div>
+
+    <!-- Portfolio Items -->
+    <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+      <!-- 1. SBA Loan (Data Science) -->
+      <div class="col-lg-4 col-md-6 portfolio-item filter-ds">
+        <div class="portfolio-wrap">
+          <img src="assets/img/portfolio/SBA Loan Approval-1.png" class="img-fluid" alt="">
+          <div class="portfolio-links">
+            <a href="portfolio-details-1.html" title="More Details">
+              <i class="bx bx-link"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- 2. Credit Risk / Self Assessment -->
+      <div class="col-lg-4 col-md-6 portfolio-item filter-ds">
+        <div class="portfolio-wrap">
+          <img src="assets/img/portfolio/Self Assessment for Credit Analyst.png" class="img-fluid" alt="">
+          <div class="portfolio-links">
+            <a href="portfolio-details-4.html" title="More Details">
+              <i class="bx bx-link"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3. PSHA (Tugas Akhir) -->
+      <div class="col-lg-4 col-md-6 portfolio-item filter-tg">
+        <div class="portfolio-wrap">
+          <img src="assets/img/portfolio/PSHA-Omega-Tugas Akhir.png" class="img-fluid" alt="">
+          <div class="portfolio-links">
+            <a href="portfolio-details-3.html" title="More Details">
+              <i class="bx bx-link"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- 4. DSHA (Kerja Praktik) -->
+      <div class="col-lg-4 col-md-6 portfolio-item filter-tg">
+        <div class="portfolio-wrap">
+          <img src="assets/img/portfolio/DSHA-Omega-Kerja Praktik-BMKG Banjarnegara.png" class="img-fluid" alt="">
+          <div class="portfolio-links">
+            <a href="portfolio-details-2.html" title="More Details">
+              <i class="bx bx-link"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
 
   </main>
 
