@@ -1,0 +1,319 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Portfolio Details - Omega Munthe</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- Mobile nav toggle -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+  <!-- Header -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="assets/img/Omega Delima Munthe.png" alt="Omega Delima Munthe" class="img-fluid circle">
+
+        <h1 class="text-light">
+          <a href="index.html">Omega Munthe</a>
+        </h1>
+
+        <div class="social-links mt-3 text-center">
+          <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=omega.munthe@gmail.com" class="gmail">
+            <i class="bx bxl-gmail"></i>
+          </a>
+
+          <a href="https://www.linkedin.com/in/omegamunthe/" class="linkedin">
+            <i class="bx bxl-linkedin"></i>
+          </a>
+
+          <a href="https://medium.com/@omega.munthe" class="medium">
+            <i class="bx bxl-medium"></i>
+          </a>
+
+          <a href="https://github.com/omegamunthe" class="github">
+            <i class="bx bxl-github"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Navigation -->
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li>
+            <a href="https://omegamunthe.github.io/#About%20Me" class="nav-link scrollto">
+              <i class="bx bx-user"></i>
+              <span>About Me</span>
+            </a>
+          </li>
+
+          <li>
+            <a href="https://omegamunthe.github.io/#resume" class="nav-link scrollto">
+              <i class="bx bx-file-blank"></i>
+              <span>Resume</span>
+            </a>
+          </li>
+
+          <li>
+            <a href="https://omegamunthe.github.io/#portfolio" class="nav-link scrollto">
+              <i class="bx bx-book-content"></i>
+              <span>Portfolio</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+    </div>
+  </header>
+
+  <main id="main">
+
+    <!-- Breadcrumbs -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center">
+
+          <h2>Portfolio Preview</h2>
+
+          <ol>
+            <li>
+              <a href="index.html">Home</a>
+            </li>
+            <li>Portfolio Preview</li>
+          </ol>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Portfolio Details -->
+    <section id="portfolio-details" class="portfolio-details">
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <!-- LEFT COLUMN: IMAGE + PORTFOLIO DESCRIPTION -->
+          <div class="col-lg-8">
+
+            <!-- Project Image Preview -->
+            <div class="portfolio-details-slider swiper">
+
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/sae.png"
+                       alt="SAE - Smart Alternative Earnings">
+                </div>
+
+              </div>
+
+              <div class="swiper-pagination"></div>
+
+            </div>
+
+            <!-- Portfolio Description -->
+            <div class="portfolio-description">
+
+              <h2>Portfolio Description</h2>
+
+              <p>
+                <strong>Description:</strong>
+                Developed a real-time activity and performance monitoring system to improve marketing productivity, operational visibility, and data-driven decision-making. TITEN integrates activity logbooks and operational data from Google Forms and Google Sheets into a centralized dashboard, enabling end-to-end monitoring of marketing activities, order-in (OI) generation, application processing, and productivity across business portfolios.
+              </p>
+
+              <p>
+                <strong>Key Contributions:</strong>
+              </p>
+
+              <ul>
+                <li>
+                  Developed a real-time activity and performance monitoring system to improve marketing productivity, operational visibility, and data-driven decision-making. TITEN integrates activity logbooks and operational data from Google Forms and Google Sheets into a centralized dashboard, enabling end-to-end monitoring of marketing activities, order-in (OI) generation, application processing, and productivity across business portfolios
+                </li>
+
+                <li>
+                  Designed an interactive dashboard to monitor activity volume, daily productivity, activity trends, and performance across teams, areas, and business portfolios.
+                </li>
+
+                <li>
+                  Developed an end-to-end monitoring approach connecting marketing activities with order generation and subsequent application processing stages.
+                </li>
+
+                <li>
+                  Enabled performance tracking across key operational indicators, including activity completion, OI-to-PPD progress, application cancellations, and conversion performance.
+                </li>
+
+                <li>
+                  Supported cross-functional coordination between Credit and Marketing to identify process bottlenecks and address human-error-related cancellations through standardized application input guidance and data refreshment.
+                </li>
+
+                <li>
+                  Established a more structured basis for evaluating individual and team productivity against operational targets, including a minimum target of four activities per day for the relevant Channeling workflow.
+                </li>
+              </ul>
+
+              <p>
+                <strong>Tools &amp; Methodology:</strong>
+              </p>
+
+              <ul>
+                <li>
+                  Data Source: Google Forms, Google Sheets, activity logbooks, Marketing Order Register (MOR), and cancellation records
+                </li>
+
+                <li>
+                  Tools: Google Workspace, dashboarding and spreadsheet-based data processing 
+                </li>
+
+                <li>
+                  Methodology: Activity tracking, KPI monitoring, operational funnel analysis, productivity measurement, and cross-functional performance evaluation
+                </li>
+              </ul>
+
+              <p>
+                <strong>Business Impact:</strong>
+              </p>
+
+              <ul>
+                <li>
+                  Performance Visibility: Improved visibility into marketing activities and productivity through centralized monitoring.
+                </li>
+
+                <li>
+                  Data-Driven Evaluation: Enabled stakeholders to compare activity trends and performance across periods, teams, and business portfolios.
+                </li>
+
+                <li>
+                  Process Improvement: Supported the identification of application processing bottlenecks and human-error-related cancellation issues.
+                </li>
+
+                    <li>
+                  Productivity Management: Provided a structured basis for monitoring individual activity performance against daily targets.
+                </li>
+
+                <li>
+                  Operational Alignment: Strengthened coordination between Marketing and Credit by connecting activity monitoring with application pipeline performance.
+                </li>
+              </ul>
+
+            </div>
+            <!-- End Portfolio Description -->
+
+          </div>
+          <!-- END LEFT COLUMN -->
+
+
+          <!-- RIGHT COLUMN: PORTFOLIO DETAILS -->
+          <div class="col-lg-4">
+
+            <!-- Portfolio Information -->
+            <div class="portfolio-info">
+
+              <h3>Portfolio Details</h3>
+
+              <ul>
+
+                <li>
+                  <strong>Project Date</strong>:
+                  Aug 2026 - Sept 2026
+                </li>
+
+                <li>
+                  <strong>Company</strong>:
+                  Adira Finance
+                </li>
+
+                <li>
+                  <strong>Category</strong>:
+                  Data Analytics Project
+                </li>
+
+                <li>
+                  <strong>Project URL</strong>:
+                  <a href="https://drive.google.com/file/d/1wp7IxV-D9vD7slzTE7jeyKjHGF8Segw6/view?usp=sharing"
+                     target="_blank"
+                     rel="noopener noreferrer">
+                    TITEN - Tracking Intelligence & Territory Execution Network
+                  </a>
+                </li>
+
+              </ul>
+
+            </div>
+            <!-- End Portfolio Information -->
+
+          </div>
+          <!-- END RIGHT COLUMN -->
+
+        </div>
+
+      </div>
+    </section>
+    <!-- End Portfolio Details -->
+
+  </main>
+
+  <!-- Footer -->
+  <footer id="footer">
+
+    <div class="container">
+
+      <div class="copyright">
+        &copy; Copyright
+        <strong>
+          <span>iPortfolio</span>
+        </strong>
+      </div>
+
+      <div class="credits">
+        Designed by
+        <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+
+    </div>
+
+  </footer>
+
+  <!-- Back to Top -->
+  <a href="#"
+     class="back-to-top d-flex align-items-center justify-content-center">
+    <i class="bi bi-arrow-up-short"></i>
+  </a>
+
+  <!-- JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
